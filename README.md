@@ -1,5 +1,5 @@
 # SQL
-Treinamento SQL Théo Me why
+Treinamento SQL Théo Me Why
 
 Uhu, deu certo!
 
